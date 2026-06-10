@@ -1,10 +1,10 @@
 Instituto Superior Técnico, Universidade de Lisboa
 
-**Ambient Intelligence**
+**Ambient Intelligence and Internet of Things**
 
 # Project Overview
 
-This document describes the organization of the project for the Ambient Intelligence / _Ambientes Inteligentes_ (AmI) course.
+This document describes the organization of the project for the Ambient Intelligence and Internet of Things / _Ambientes Inteligentes e Internet das Coisas_ (AIIC) course.
 
 The document concludes with a calendar containing all the important dates.
 
@@ -13,7 +13,7 @@ For any questions regarding this document, please contact:
 
 # 1 Introduction
 
-The AmI (Ambient Intelligence) course requires a practical project dealing with so called "smart" technologies.  
+The AIIC (Ambient Intelligence and Internet of Things) course requires a practical project dealing with so called "smart" technologies.  
 The whole process is organized in sequential stages, covering team formation, topic selection, proposal development, project execution, and presentation:
 
 | **Stage**                                                                             |
@@ -85,9 +85,9 @@ One of the important parts of the document is the literature review.
 Your proposal must include a (small) literature review, focused on the topic area.
 The review will start with a search for relevant scientific papers, where you will learn about the core concepts and approaches to similar solutions.
 The bibliography should have two papers, from different authors.
-These papers must have been published in a scientific journal or conference related with ambient intelligence in the last five years.
+These papers must have been published in a scientific journal or conference related with ambient intelligence and internet of things in the last five years.
 
-IMPORTANT: see [list of journals and conferences related with ambient intelligence](https://github.com/tecnico-iot/awesome-iot-ambient-intelligence#publications).  
+IMPORTANT: see [list of journals and conferences related with ambient intelligence and internet of things](https://github.com/tecnico-iot/awesome-iot-ambient-intelligence#publications).  
 You can also do an open search on sites like [Semantic Scholar](https://www.semanticscholar.org) or [Google Scholar](https://scholar.google.com).
 
 ### 2.5.2 Technical requirements
@@ -401,4 +401,4 @@ Make the most of it and we look forward to see what you will achieve!
 
 ----
 
-[AmI Faculty](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt)
+[AIIC Faculty](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt)
